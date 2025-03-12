@@ -150,6 +150,10 @@ height: 400px;
   gap: 40px
 }
 
+#c-container{
+  margin-bottom: 120px;
+}
+
 #c-container .title .sub-title,.tub-title{
   margin-left: 0px;
 
@@ -179,6 +183,7 @@ height: 400px;
   width: 290px;
   height: 420px;
 }
+
 
 
 
