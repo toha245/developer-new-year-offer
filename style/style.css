@@ -77,8 +77,8 @@
   justify-content: center;
   display: flex;
   height: 100vh;
-  transform: scale(0.8);
-  object-fit: cover;
+  transform: scale(0.9);
+  /* object-fit: cover; */
   margin-bottom: 120px;
  border-radius: 16px;
   
@@ -135,6 +135,52 @@ height: 400px;
 
 
 /* 3rd picture */
+
+#c-container{
+  background-image: linear-gradient(90deg, rgb(9, 9, 9) 3.482%,rgba(16, 16, 16, 0) 101.632%), url(../images/Vectorrr.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  transform: scale(0.9);
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px
+}
+
+#c-container .title .sub-title,.tub-title{
+  margin-left: 0px;
+
+  
+}
+
+#c-container .title .sub-title{
+  font-size: 64px;
+  margin-bottom: 24px;
+  
+  color: #FFFFFF;
+}
+
+#c-container .title .tub-title{
+  font-size: 18px;
+  color: #FFFFFF;
+  line-height: 30px;
+}
+
+#c-container .title .pub-title{
+  margin-top: 48px;
+  margin-left: 40px;
+  color: #FFFFFF;
+}
+
+#c-container .im-title img{
+  width: 290px;
+  height: 420px;
+}
+
+
 
 
 
