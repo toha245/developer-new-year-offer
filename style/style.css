@@ -53,3 +53,34 @@
 .black{
   font-weight: 900;
 }
+
+/* text align */
+.align{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+/* 1st picture */
+
+#container{
+  background-image: url(../images/Banner\ Image.png);
+  background-size:auto;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 100vh;
+  margin: 10px;
+
+}
+
+#container .title .sub-title{
+  font-size: 32px;
+  color: #FFFFFF;
+}
+
+#container .title .heading-2{
+  font-size: 72px;
+  color: #FFFFFF;
+}
