@@ -198,7 +198,7 @@ height: 400px;
   padding: 70px 100px 110px 100px;
   margin: 50px auto;
   background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%); 
-  border: 1px solid black;
+  border: none;
 }
  
 
