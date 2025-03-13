@@ -185,6 +185,45 @@ height: 400px;
 }
 
 
+/* 4th picture */
+
+#d-container{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 75%;
+  height: auto;
+  border-radius: 16px;
+  margin-bottom: 120px;
+  padding: 70px 100px 110px 100px;
+  margin: 50px auto;
+  background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%); 
+  border: 1px solid black;
+}
+ 
+
+#d-container .title{
+  font-size: 32px;
+  line-height: 20px;
+}
+
+#d-container .title .red{
+  color: #FF0000;
+}
+
+#d-container .tub-title .pub-title{
+  font-size: 20px;
+  padding: 12px 22px 12px 22px;
+  margin-top: 25px;
+  background-color: #FF0000;
+  border-radius: 8px;
+  border: none;
+}
+
+/* 5th picture */
+
+
+
 
 
 
