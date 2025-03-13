@@ -222,6 +222,46 @@ height: 400px;
 
 /* 5th picture */
 
+#e-container{
+  display: flex;
+}
+
+#e-container .title{
+  width: 220px;
+}
+
+#e-container .title .new{
+  color: #FF0000;
+  margin-bottom: 0px;
+}
+
+#e-container .title .com{
+  font-size: 48px;
+  margin-top: 16px;
+  margin-bottom: 22px;
+  color: #070211;
+}
+
+#e-container .title .dolor{
+  color: rgba(7, 2, 17, 0.6);
+}
+
+#e-container .i-center img{
+  width: 259px;
+  height: auto;
+}
+
+#e-container .son{
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #FF0000;
+}
+
+#e-container .column-3 .dolor{
+  color: rgba(7, 2, 17, 0.6);
+  line-height: 15px;
+  margin-bottom: 43px;
+}
 
 
 
