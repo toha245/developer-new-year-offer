@@ -223,32 +223,50 @@ height: 400px;
 /* 5th picture */
 
 #e-container{
+  margin: 50px auto;
+  justify-content: center;
+  align-items: center;
   display: flex;
+  margin-bottom: 120px;
+  transform: scale(0.9);
+  border: 1px solid gray;
 }
 
 #e-container .title{
-  width: 220px;
+margin-left: 140px;
+padding-left: 0px;
+gap: 0px;
+width: 393px;
 }
 
 #e-container .title .new{
   color: #FF0000;
-  margin-bottom: 0px;
+  margin-right: 256px;
+  width: 237px;
+  margin-bottom: 16px;
 }
 
 #e-container .title .com{
   font-size: 48px;
-  margin-top: 16px;
+  margin-top: 10px;
   margin-bottom: 22px;
+  margin-right: 135px;
+  width: 328px;
   color: #070211;
 }
 
 #e-container .title .dolor{
+  margin-right: 70px;
+  width: 393px;
   color: rgba(7, 2, 17, 0.6);
 }
 
 #e-container .i-center img{
-  width: 259px;
+  width: 463px;
   height: auto;
+}
+
+#e-container .i-center{
 }
 
 #e-container .son{
@@ -259,10 +277,23 @@ height: 400px;
 
 #e-container .column-3 .dolor{
   color: rgba(7, 2, 17, 0.6);
-  line-height: 15px;
+  line-height: 25px;
   margin-bottom: 43px;
 }
 
+#e-container .column-3{
+  margin-left: 118px;
+  margin-right: 140px;
+  width: 276px;
+}
+
+#e-container .column-3 .i-last{
+  margin-right: 276px;
+}
+
+#e-container .column-3 .i-last img{
+  width: 140px;
+}
 
 
 
