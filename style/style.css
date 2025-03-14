@@ -229,8 +229,9 @@ height: 400px;
   display: flex;
   margin-bottom: 120px;
   transform: scale(0.9);
-  border: 1px solid gray;
+  border: 1px solid grey;
 }
+
 
 #e-container .title{
 margin-left: 140px;
@@ -261,13 +262,20 @@ width: 393px;
   color: rgba(7, 2, 17, 0.6);
 }
 
-#e-container .i-center img{
-  width: 463px;
-  height: auto;
+#e-container .i-center{
+  position: relative;
+  display: inline-block;
 }
 
-#e-container .i-center{
+#e-container .i-center .main-image{
+  display: block;
+  width: 364px;
+  height: 364px;
+  border-radius: 50%;
+  padding: 40px;
+  border: 10px solid red;
 }
+
 
 #e-container .son{
   font-size: 48px;
