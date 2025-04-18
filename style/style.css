@@ -375,3 +375,20 @@ margin-bottom: 120px;
 }
 
 
+/* 7th picture */
+
+#g-container .title{
+  color: #FF0000;
+}
+
+
+
+
+#g-container .image-container .first-line{
+  display: flex;
+}
+
+
+#g-container .image-container .second-line{
+  display: flex;
+}
