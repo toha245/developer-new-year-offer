@@ -492,9 +492,21 @@ transform: scale(0.9);
   display: inline-block;
   background-color: #FF0000;
   border: none;
+  color: white;
 
 }
 
 
 /* 9th picture */
+
+#i-container{
+  background-color: #070211;
+  color: white;
+  padding-top: 80px;
+}
+
+#i-container .first{
+  padding-bottom: 20px;
+  display: flex;
+}
 
