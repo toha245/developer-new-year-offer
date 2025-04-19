@@ -503,6 +503,9 @@ transform: scale(0.9);
   background-color: #070211;
   color: white;
   padding-top: 80px;
+  margin: 50px auto;
+  transform: scale(0.9);
+
 }
 
 #i-container .first {
@@ -524,11 +527,40 @@ transform: scale(0.9);
 }
 
 #i-container .first .icon .number .icon-2{
-  /* display: block; */
-  position: ;
+
+  
 }
 
 #i-container .first .icon .number .icon-1{
   
 }
 
+#i-container .second{
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+#i-container .hr{
+  background-color: rgb(77, 75, 75);
+  margin-right: 150px;
+  margin-left: 150px;
+  opacity: 0.5;
+}
+
+#i-container .third{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 160px;
+}
+
+#i-container .third .all{
+margin-left: 140px;
+}
+
+#i-container .third .last{
+  margin-right: 140px;
+}
