@@ -505,8 +505,30 @@ transform: scale(0.9);
   padding-top: 80px;
 }
 
-#i-container .first{
+#i-container .first {
   padding-bottom: 20px;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#i-container .first .title{
+  padding-left: 140px;
+  line-height: 40px;
+}
+
+#i-container .first .icon{
+  padding-right: 275px;
+  line-height: 40px;
+  display: flex;
+}
+
+#i-container .first .icon .number .icon-2{
+  /* display: block; */
+  position: ;
+}
+
+#i-container .first .icon .number .icon-1{
+  
 }
 
